@@ -29,9 +29,14 @@
 </p>
 <h2> My Repository 📂 </h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Top Langs Pie" width="400">
+    <a href="https://github.com/phatnguyen3003/sgu25_ltdt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Repo Card" width="400">
+  </a>
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=Operating-Systems&theme=dracula" alt="Top Langs Pie" width="400">
+    <a href="https://github.com/phatnguyen3003/Operating-Systems">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=Operating-Systems&theme=dracula" alt="Repo Card" width="400">
+</a>
+
 
 
 
