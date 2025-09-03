@@ -21,8 +21,16 @@
 </p>
 ## 📂 My Repositories
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula)
-
+<table>
+  <tr>
+    <td width="48%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula">
+    </td>
+    <td width="4%"></td>
+    <td width="48%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Top Langs Pie" width="400">
+    </td>
+  </tr>
 
 
 
