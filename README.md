@@ -31,7 +31,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Top Langs Pie" width="400">
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Top Langs Pie" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=Operating-Systems&theme=dracula" alt="Top Langs Pie" width="400">
 
 
 
