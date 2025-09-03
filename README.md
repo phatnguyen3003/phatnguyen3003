@@ -1,3 +1,11 @@
+
+Hello there, my name is **Nguyen Tan Phat**  
+🎓 I'm now is a student of **Đại học Sài Gòn (Sai Gon University)** in Ho Chi Minh City
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phatnguyen3003/phatnguyen3003/main/logo_sgu.png" alt="SGU Logo" width="120">
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-html-blue?logo=html5&style=for-the-badge">
 </p>
