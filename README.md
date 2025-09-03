@@ -19,18 +19,11 @@
   <b>👀 Visitor</b><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phatnguyen3003.phatnguyen3003" alt="Visitors" width="100">
 </p>
-## 📂 My Repositories
-
-<table>
-  <tr>
-    <td width="48%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula">
-    </td>
-    <td width="4%"></td>
-    <td width="48%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Top Langs Pie" width="400">
-    </td>
-  </tr>
+<h2> My Repository 📂 </h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Top Langs Pie" width="400">
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Top Langs Pie" width="400">
 
 
 
