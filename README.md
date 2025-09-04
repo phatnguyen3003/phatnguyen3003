@@ -1,5 +1,5 @@
 
-<h3>Hello there, my name is Nguyen Tan Phat </h3> 
+<h3>Hello there 👋, my name is Nguyen Tan Phat </h3> 
 <h3>🎓 I'm currently a student at the Faculty of Information Technology, Đại học Sài Gòn (Sai Gon University) in Ho Chi Minh City</h3>
 
 <p align="center">
