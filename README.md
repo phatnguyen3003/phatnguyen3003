@@ -14,7 +14,7 @@
   <tr>
     <td width="50%">
       <h3>📊 Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=phatnguyen3003&show_icons=true&theme=radical">
+      <img src="https://github-readme-stats.vercel.app/api?username=phatnguyen3003&show_icons=true&theme=merko">
     </td>
     <td width="50%">
       <b>📊 Languages</b><br>
