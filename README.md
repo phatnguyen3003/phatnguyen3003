@@ -18,7 +18,7 @@
     </td>
     <td width="50%">
       <b>📊 Languages</b><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen3003&layout=pie" alt="Top Langs Pie" width="400">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen3003&layout=compact" alt="Top Langs Pie" width="400">
     </p>
     </td>
   </tr>
