@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Made%20With-html-blue?logo=html5&style=for-the-badge">
 </p>
 <p align="center">
-  ![phatnguyen3003 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=phatnguyen3003)
+  <img src="![phatnguyen3003 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=phatnguyen3003)">
 </p>
 
 <table>
