@@ -12,9 +12,6 @@
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=phatnguyen3003">
 </p>
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=phatnguyen3003">
-</p>
 
 <table>
   <tr>
