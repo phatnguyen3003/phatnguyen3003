@@ -26,9 +26,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phatnguyen3003" alt="Wakatime Stats" width="400">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phatnguyen3003" alt="Stats" width="100">
 </p>
 
 
