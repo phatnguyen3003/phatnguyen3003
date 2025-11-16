@@ -24,6 +24,10 @@
   </tr>
 </table>
 <p align="center" width="100">
+  <img src="(https://github-readme-stats.vercel.app/api/wakatime?username=phatnguyen3003)](https://github.com/anuraghazra/github-readme-stats)" alt="Visitors" width="100">
+</p>
+
+<p align="center" width="100">
   <b>👀 Visitor</b><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phatnguyen3003.phatnguyen3003" alt="Visitors" width="100">
 </p>
