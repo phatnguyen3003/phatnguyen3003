@@ -14,7 +14,7 @@
   <tr>
     <td width="50%">
       <h3>📊 Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=phatnguyen3003&show_icons=true&theme=merko">
+      <img src="https://github-readme-stats.vercel.app/api?username=phatnguyen3003&show_icons=true&theme=tokyonight">
     </td>
     <td width="50%">
       <b>📊 Languages</b><br>
@@ -32,7 +32,7 @@
 <h2> My Repository 📂 </h2>
   <p align="center">
     <a href="https://github.com/phatnguyen3003/sgu25_ltdt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=tokyonight" alt="Repo Card" width="400"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Repo Card" width="400"> 
   </a>
     &nbsp;&nbsp;
     <a href="https://github.com/phatnguyen3003/Operating-Systems">
