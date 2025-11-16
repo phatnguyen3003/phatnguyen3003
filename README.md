@@ -25,12 +25,6 @@
 </table>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phatnguyen3003" alt="Stats" width="450">
-</p>
-
-
-
 <p align="center" width="100">
   <b>👀 Visitor</b><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phatnguyen3003.phatnguyen3003" alt="Visitors" width="100">
