@@ -32,7 +32,7 @@
 <h2> My Repository 📂 </h2>
   <p align="center">
     <a href="https://github.com/phatnguyen3003/sgu25_ltdt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Repo Card" width="400"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=radical" alt="Repo Card" width="400"> 
   </a>
     &nbsp;&nbsp;
     <a href="https://github.com/phatnguyen3003/Operating-Systems">
