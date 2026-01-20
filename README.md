@@ -45,7 +45,7 @@
 </a>
    &nbsp;&nbsp;
     <a href="https://github.com/phatnguyen3003/web1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=Calendar_manager_Project&theme=dracula" alt="Repo Card" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=Voice_generator&theme=dracula" alt="Repo Card" width="400">
 </a>
 </a>
    &nbsp;&nbsp;
