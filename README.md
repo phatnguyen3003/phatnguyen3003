@@ -14,12 +14,11 @@
   <tr>
     <td width="50%">
       <h3>📊 Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=phatnguyen3003&show_icons=true&theme=tokyonight">
+      <img src="./charts/stats.svg">
     </td>
     <td width="50%">
       <b>📊 Languages</b><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatnguyen3003&layout=compact" alt="Top Langs Pie" width="400">
-    </p>
+      <img src="./charts/langs.svg" width="400">
     </td>
   </tr>
 </table>
