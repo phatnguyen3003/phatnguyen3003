@@ -29,5 +29,4 @@
   <b>👀 Visitor</b><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phatnguyen3003.phatnguyen3003" alt="Visitors" width="100">
 </p>
-<h2> My Repository 📂 </h2>
-    https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2FVoice_Generator&theme=dark_github_repocard
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2FVoice_Generator&theme=dark_github_repocard)](https://github.com/phatnguyen3003/Voice_Generator)
