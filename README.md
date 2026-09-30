@@ -30,25 +30,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phatnguyen3003.phatnguyen3003" alt="Visitors" width="100">
 </p>
 <h2> My Repository 📂 </h2>
-  <p align="center">
-    <a href="https://github.com/phatnguyen3003/sgu25_ltdt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=sgu25_ltdt&theme=dracula" alt="Repo Card" width="400"> 
-  </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/phatnguyen3003/Operating-Systems">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=Operating-Systems&theme=dracula" alt="Repo Card" width="400">
-</a>
-   &nbsp;&nbsp;
-    <a href="https://github.com/phatnguyen3003/web1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=web1&theme=dracula" alt="Repo Card" width="400">
-</a>
-</a>
-   &nbsp;&nbsp;
-    <a href="https://github.com/phatnguyen3003/web1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=Voice_generator&theme=dracula" alt="Repo Card" width="400">
-</a>
-</a>
-   &nbsp;&nbsp;
-    <a href="https://github.com/phatnguyen3003/web1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatnguyen3003&repo=OOP-project&theme=dracula" alt="Repo Card" width="400">
-</a>
+    https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2FVoice_Generator&theme=dark_github_repocard
