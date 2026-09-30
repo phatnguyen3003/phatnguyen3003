@@ -29,15 +29,29 @@
   <b>👀 Visitor</b><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phatnguyen3003.phatnguyen3003" alt="Visitors" width="100">
 </p>
-<a>
-  <img src ="https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2FVoice_Generator&theme=dark_github_repocard">
-</a>
-<a>
-  <img src ="https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2FCSharp&theme=dark_github_repocard">
-</a>
-<a>
-  <img src = "https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2Ftook_rok-J4F&theme=tokyonight">
-</a>
-<a>
-  <img src = "https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=kkons2212%2FSoftware-Technology&theme=tokyonight">
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <a>
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2FVoice_Generator&theme=dark_github_repocard" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <a>
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2FCSharp&theme=dark_github_repocard" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a>
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=phatnguyen3003%2Ftook_rok-J4F&theme=tokyonight" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <a>
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=phatnguyen3003&repo=kkons2212%2FSoftware-Technology&theme=tokyonight" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
